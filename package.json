@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^6.2.4",
+    "@astrojs/node": "^8.3.2",
     "@astrojs/svelte": "^2.1.1",
     "astro": "^2.3.4",
     "svelte": "^3.54.0"
